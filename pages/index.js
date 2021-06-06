@@ -60,6 +60,11 @@ export default function Home() {
       </footer>
 
       <style jsx>{`
+      
+        head{
+          color:red;
+        }
+      
         .container {
           min-height: 100vh;
           padding: 0 0.5rem;
